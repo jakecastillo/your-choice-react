@@ -1,0 +1,33 @@
+body {
+  background-color: white !important;
+}
+
+.ui.topmenu.menu, .ui.topmenu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+  background-size: cover;
+  background-attachment:fixed;
+}
+
+.ui.topmenu.menu .item {
+  color: black;
+}
+.ui.middle.menu .item {
+  color: white;
+}
+
+.footer {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  color: black;
+}
+
+.yourchoice-background {
+  background-image: url('https://i.imgur.com/9fallYC.jpeg');
+  background-size: cover;
+  background-color: white !important;
+  height: 650px;
+  color: white;
+  text-align: center
+}
